@@ -1,7 +1,7 @@
 ![Avatar](https://codie.gg/profile/img/avatar.png)
 ### Hi, I'm Codie ⭐
 I'm a software kiddo from Norwich, UK \
-I also make [music](https://soundcloud.com/codieradical), and [draw](https://www.deviantart.com/codieradical)!
+I also make [music](https://soundcloud.com/codieradical), and [art](https://www.deviantart.com/codieradical)!
 
 
 
