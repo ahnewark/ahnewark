@@ -1,7 +1,7 @@
 <!-- ![Avatar](https://codie.gg/profile/img/avatar.png) -->
 <!-- ![Me!](https://codie.gg/profile/img/me.jpg) -->
 ### Hi, I'm Codie ⭐
-I'm a software kiddo from Norwich, UK \
+I'm a software kiddo from Norwich UK, student at the University of East Anglia \
 I also make [music](https://soundcloud.com/codieradical) and [art](https://www.deviantart.com/codieradical)!
 
 
