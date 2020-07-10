@@ -7,14 +7,14 @@ I also make [music](https://soundcloud.com/codieradical) and [art](https://www.d
 
 
 ### Social Links!!1!
-[![Twitter](https://codie.gg/profile/img/social/Twitter.png)](https://twitter.com/codieradical)
-[![Twitch](https://codie.gg/profile/img/social/Twitch.png)](https://www.twitch.tv/codieradical)
-[![Spotify](https://codie.gg/profile/img/social/Spotify.png)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
-[![DeviantArt](https://codie.gg/profile/img/social/DeviantArt.png)](https://www.deviantart.com/codieradical)
-[![Discord](https://codie.gg/profile/img/social/Discord.png)](https://discord.gg/xuyT7Xm)
-[![Instagram](https://codie.gg/profile/img/social/Instagram.png)](https://www.instagram.com/codieradical/)
-[![SoundCloud](https://codie.gg/profile/img/social/Soundcloud.png)](https://soundcloud.com/codieradical)
-[![YouTube](https://codie.gg/profile/img/social/YouTube.png)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
+[![Twitter](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Twitter.png?raw=true)](https://twitter.com/codieradical)
+[![Twitch](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Twitch.png?raw=true)](https://www.twitch.tv/codieradical)
+[![Spotify](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Spotify.png?raw=true)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
+[![DeviantArt](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/DeviantArt.png?raw=true)](https://www.deviantart.com/codieradical)
+[![Discord](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Discord.png?raw=true)](https://discord.gg/xuyT7Xm)
+[![Instagram](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Instagram.png?raw=true)](https://www.instagram.com/codieradical/)
+[![SoundCloud](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/codieradical)
+[![YouTube](https://raw.githubusercontent.com/codieradical/codieradical/master/img/social/YouTube.png?raw=true)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
 
 <!-- [![Bandcamp](https://codie.gg/profile/img/social/Bandcamp.png)](https://codie.bandcamp.com/) -->
 
