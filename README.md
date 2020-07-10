@@ -1,10 +1,7 @@
-<div style="float:left;display:inline-block"><img alt="avatar" src="https://codie.gg/profile/img/avatar.png"/></div><div style="float:right;display:inline-block">
-  <h3>Hi, I'm Codie ⭐</h3>
-  <p>
-    I'm a software kiddo from Norwich, UK<br/>
-    I also make <a href="https://soundcloud.com/codieradical">music</a>, and <a href="https://www.deviantart.com/codieradical">art</a>!
-  </p>
-</div>
+![Avatar](https://codie.gg/profile/img/avatar.png)
+### Hi, I'm Codie ⭐
+I'm a software kiddo from Norwich, UK \
+I also make [music](https://soundcloud.com/codieradical), and [art](https://www.deviantart.com/codieradical)!
 
 
 
@@ -16,9 +13,9 @@
 [![Discord](https://codie.gg/profile/img/social/Discord.png)](https://discord.gg/xuyT7Xm)
 [![Instagram](https://codie.gg/profile/img/social/Instagram.png)](https://www.instagram.com/codieradical/)
 [![SoundCloud](https://codie.gg/profile/img/social/Soundcloud.png)](https://soundcloud.com/codieradical)
-[![Bandcamp](https://codie.gg/profile/img/social/Bandcamp.png)](https://codie.bandcamp.com/)
 [![YouTube](https://codie.gg/profile/img/social/YouTube.png)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
 
+<!-- [![Bandcamp](https://codie.gg/profile/img/social/Bandcamp.png)](https://codie.bandcamp.com/) -->
 
 
 <!--
