@@ -1,4 +1,4 @@
-![Avatar](img/avatar.png)
+![Avatar](https://github.com/codieradical/codieradical/blob/master/img/avatar.png?raw=true)
 ### Hi, I'm Codie ⭐
 I'm a software kiddo from Norwich, UK \
 I also make [music](https://soundcloud.com/codieradical), and [draw](https://www.deviantart.com/codieradical)!
@@ -6,15 +6,17 @@ I also make [music](https://soundcloud.com/codieradical), and [draw](https://www
 
 
 ### Social Links!!1!
-[![Bandcamp](img/social/Bandcamp.png)](https://codie.bandcamp.com/)
-[![DeviantArt](img/social/DeviantArt.png)](https://www.deviantart.com/codieradical)
-[![Discord](img/social/Discord.png)](https://discord.gg/xuyT7Xm)
-[![Instagram](img/social/Instagram.png)](https://www.instagram.com/codieradical/)
-[![SoundCloud](img/social/Soundcloud.png)](https://soundcloud.com/codieradical)
-[![Twitch](img/social/Twitch.png)](https://www.twitch.tv/codieradical)
-[![Twitter](img/social/Twitter.png)](https://twitter.com/codieradical)
-[![YouTube](img/social/YouTube.png)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
-[![Spotify](img/social/Spotify.png)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
+[![Twitter](https://github.com/codieradical/codieradical/blob/master/img/social/Twitter.png?raw=true)](https://twitter.com/codieradical)
+[![Twitch](https://github.com/codieradical/codieradical/blob/master/img/social/Twitch.png?raw=true)](https://www.twitch.tv/codieradical)
+[![Spotify](https://github.com/codieradical/codieradical/blob/master/img/social/Spotify.png?raw=true)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
+[![DeviantArt](https://github.com/codieradical/codieradical/blob/master/img/social/DeviantArt.png?raw=true)](https://www.deviantart.com/codieradical)
+[![Discord](https://github.com/codieradical/codieradical/blob/master/img/social/Discord.png?raw=true)](https://discord.gg/xuyT7Xm)
+[![Instagram](https://github.com/codieradical/codieradical/blob/master/img/social/Instagram.png?raw=true)](https://www.instagram.com/codieradical/)
+[![SoundCloud](https://github.com/codieradical/codieradical/blob/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/codieradical)
+[![Bandcamp](https://github.com/codieradical/codieradical/blob/master/img/social/Bandcamp.png?raw=true)](https://codie.bandcamp.com/)
+[![YouTube](https://github.com/codieradical/codieradical/blob/master/img/social/YouTube.png?raw=true)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
+
+
 
 <!--
 **codieradical/codieradical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
