@@ -1,7 +1,7 @@
 <!-- ![Avatar](https://codie.gg/profile/img/avatar.png) -->
 <!-- ![Me!](https://codie.gg/profile/img/me.jpg) -->
 ### Hi, I'm Codie ⭐
-I'm a software kiddo from Norwich UK, student at the University of East Anglia \
+I'm a software kiddo from Norwich UK, UEA grad and tech @ Oakbrook Finance \
 I'm a full stack developer, at uni I've been focusing on Time Series Machine Learning, at home I like reversing/archiving stuff. \
 I also make [music](https://soundcloud.com/codieradical) and [art](https://www.deviantart.com/codieradical)!
 
