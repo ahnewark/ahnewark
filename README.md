@@ -1,6 +1,6 @@
 <!-- ![Avatar](https://codie.gg/profile/img/avatar.png) -->
 <!-- ![Me!](https://codie.gg/profile/img/me.jpg) -->
-### Hi, I'm Codie (she/her) ⭐
+### Hi, I'm Codie (she/they) ⭐
 I'm a senior software engineer @ Oakbrook Finance \
 I'm a full stack developer, currently using C# and React with DDD. \
 I have a First-Class Master of Computing degree from the Uni of East Anglia uni where I studied Neuroimaging and Time Series Machine Learning. \
