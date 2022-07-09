@@ -14,8 +14,6 @@ Beyond code, I've been getting really into making music lately! 🎹💃✨
 [![Twitter](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitter.png?raw=true)](https://twitter.com/craftycodie)
 [![Twitch](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitch.png?raw=true)](https://www.twitch.tv/craftycodie)
 [![Spotify](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Spotify.png?raw=true)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
-<!-- [![DeviantArt](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/DeviantArt.png?raw=true)](https://www.deviantart.com/craftycodie) -->
-<!-- [![Instagram](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Instagram.png?raw=true)](https://www.instagram.com/craftycodie/) -->
 [![SoundCloud](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/craftycodie)
 [![YouTube](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/YouTube.png?raw=true)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
 
