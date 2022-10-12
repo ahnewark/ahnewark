@@ -1,6 +1,6 @@
 <!-- ![Avatar](https://codie.gg/profile/img/avatar.png) -->
 <!-- ![Me!](https://codie.gg/profile/img/me.jpg) -->
-### Hi, I'm Codie (she/they) ⭐
+### Hi, I'm Codie (they/them) 🎵
 I'm a full stack software engineer, currently using C#, NestJS and React with DDD. \
 I have a First-Class Master of Computing degree from the Uni of East Anglia uni where I studied Neuroimaging and Time Series Machine Learning. \
 My personal projects tend to involve reversing/archiving games. \
