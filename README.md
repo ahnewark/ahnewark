@@ -10,10 +10,10 @@ Beyond code, I've been getting really into making music lately! 🎹💃✨
 
 
 ### Social Links!!1!
-[![Twitter](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitter.png?raw=true)](https://twitter.com/craftycodie)
-[![Twitch](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitch.png?raw=true)](https://www.twitch.tv/craftycodie)
+[![Twitter](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitter.png?raw=true)](https://twitter.com/codiegotlost)
+[![Twitch](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Twitch.png?raw=true)](https://www.twitch.tv/codiegotlost)
 [![Spotify](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Spotify.png?raw=true)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
-[![SoundCloud](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/craftycodie)
+[![SoundCloud](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/codiegotlost)
 [![YouTube](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/YouTube.png?raw=true)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
 
 <!-- [![Bandcamp](https://codie.gg/profile/img/social/Bandcamp.png)](https://codie.bandcamp.com/) -->
