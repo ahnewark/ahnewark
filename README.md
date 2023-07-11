@@ -7,12 +7,6 @@ My personal projects tend to involve reversing/archiving games. \
  \
 Beyond code, I've been getting really into making music lately! 🎹💃✨
 
-
-
-### Social Links!!1!
-[![Spotify](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/ZI3qMUkj5Tz.png)](https://www.threads.net/@codiegotlost)
-[![Spotify](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Spotify.png?raw=true)](https://open.spotify.com/artist/23QFVBSYU1fwB5160KlqVz)
-[![SoundCloud](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/Soundcloud.png?raw=true)](https://soundcloud.com/codiegotlost)
 [![YouTube](https://raw.githubusercontent.com/craftycodie/craftycodie/master/img/social/YouTube.png?raw=true)](https://www.youtube.com/channel/UC1roe7lSEOq7VDGYtN2II4w)
 
 <!-- [![Bandcamp](https://codie.gg/profile/img/social/Bandcamp.png)](https://codie.bandcamp.com/) -->
